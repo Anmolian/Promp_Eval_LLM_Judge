@@ -1,0 +1,3 @@
+system_prompt = "You are a helpful assistant. Compare correct and incorrect reasoning chains for the given question. Avoid any special formatting like bold, italics, or lists. Provide all reasoning in paragraph form, clearly explaining why certain steps are correct or incorrect."
+
+user_prompt = f"Question: {question}\nPlease contrast the correct and incorrect reasoning, and then provide the final answer based on the comparison."

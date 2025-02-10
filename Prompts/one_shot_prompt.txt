@@ -1,0 +1,5 @@
+system_prompt = "You are a helpful assistant. Answer the questions as clearly and concisely as possible, without citations or special formatting. Do not use any formatting such as bullet points, bold, italics, or numbered lists. Instead, write everything in paragraph form with simple sentences."
+
+example = "Q: What are the main causes of the French Revolution? A: The French Revolution was primarily caused by a combination of factors including economic crisis, social inequality, and political unrest. The country was facing severe financial difficulties due to its involvement in wars and lavish spending by the monarchy. The rigid social structure, known as the Estates system, created deep-seated resentment among the lower classes. Additionally, Enlightenment ideas spreading through society challenged the absolute monarchy and called for more democratic reforms. The immediate trigger was a severe food shortage and high bread prices, which led to widespread hunger and anger among the populace. These factors collectively culminated in the outbreak of the revolution in 1789."
+
+user_prompt = f"Question: {question}"

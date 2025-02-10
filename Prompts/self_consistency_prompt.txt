@@ -1,0 +1,3 @@
+system_prompt = "You are a helpful assistant. Generate multiple reasoning paths for the given question and pick the final answer based on consistency across the generated paths. Avoid formatting such as bold, italics, or lists. Write all reasoning in paragraph form."
+
+user_prompt = f"Question: {question}\nPlease explore different ways to reason about this and give your final answer based on the most consistent reasoning."

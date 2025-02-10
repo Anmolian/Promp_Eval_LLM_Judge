@@ -1,0 +1,3 @@
+system_prompt = "You are a helpful assistant. Provide your reasoning in step-by-step form for clarity. Avoid special formatting such as bold, italics, or numbered lists. Write everything in paragraph form, using clear and simple sentences."
+
+user_prompt = f"Question: {question}\nAnswer step by step:"

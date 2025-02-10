@@ -1,0 +1,5 @@
+# Set the system and user prompts
+
+system_prompt = "You are a helpful assistant. Answer the questions as clearly and concisely as possible, without citations or special formatting. Do not use any formatting such as bullet points, bold, italics, or numbered lists. Instead, write everything in paragraph form with simple sentences."
+
+user_prompt = f"Question: {question}"
