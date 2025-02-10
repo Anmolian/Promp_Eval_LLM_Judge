@@ -1,4 +1,4 @@
-# Promp Eval LLM Judge
+# Evaluating Prompt Strategies with an LLM Judge
 ## Technologies Used: LLMs, Prompt Designing, OpenAI API
 
 - Designed and implemented seven prompt strategies (Zero Shot, Few Shot, Chain of Thought, etc.) to systematically test LLM-generated responses on 150 queries from the TREC ’24 RAG Track dataset (MS Marco V2.1).
